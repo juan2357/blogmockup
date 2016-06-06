@@ -1,1 +1,1 @@
-mock up of a blog
+Mockup to Article
