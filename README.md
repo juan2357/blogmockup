@@ -1,1 +1,1 @@
-# blogmockup
+mock up of a blog
